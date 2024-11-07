@@ -23,7 +23,7 @@
     <h2>Наші контакти</h2>
     <p class="ruler">Довжина: 150px</p>
     <div>
-      <p class="mail-box">Наша пошта:<a href="chepak.ivan@student.uzhnu.edu.ua"><br>chepak.ivan@student.uzhnu<bre> edu.ua</a></p>
+      <p class="mail-box">Наша пошта:<a href="chepak.ivan@student.uzhnu.edu.ua"><br>chepak.ivan<br>@student.uzhn<br>u.edu.ua</a></p>
     </div>
   </body>
 </html>

@@ -1,0 +1,101 @@
+<link href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700;900&display=swap" rel="stylesheet">
+<body>
+  <header>
+    <div class="container">
+      <h1><img src="https://ucarecdn.com/d93cfe4c-1215-4501-809b-474c677ee6b2/logo.png" alt="logo" class="logo"></h1>
+      <nav class="mainmenu">
+        <ul class="mainmenu__list">
+          <li class="mainmenu__item"><a href="" href="#">Home</a></li>
+          <li class="mainmenu__item"><a href="" href="#">Services</a></li>
+          <li class="mainmenu__item"><a href="" href="#">Portfolio</a></li>
+          <li class="mainmenu__item"><a href="" href="#">About</a></li>
+          <li class="mainmenu__item"><a href="" href="#">Contact</a></li>
+        </ul>
+      </nav>
+    </div>
+    <div class="color-line"></div>
+  </header>
+
+  <main>
+    <section class="services">
+      <div class="container">
+        <h2 class="section-header">Our Services</h2>
+        <p class="section-intro">Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum. Duis mollis, non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh.</p>
+
+        <div class="services__wrapper">
+          <div class="services__item">
+            <img src="https://ucarecdn.com/bf37c23f-6d37-42d3-a0a0-e5f734c0fb26/servicesitem1.svg" alt="" class="services__icon">
+            <div class="services__text">
+              <h3 class="services__header">Custom Design</h3>
+              <p class="services__description">Curabitur vestibulum eget mauris quis laoreet. Phasellus in quam laoreet, viverra lacus ut, ultrices velit.</p>
+            </div>
+          </div>
+          <div class="services__item">
+            <img src="https://ucarecdn.com/b58a2d5f-b65c-40a2-8d12-316377d56bf7/servicesitem2.svg" alt="" class="services__icon">
+            <div class="services__text">
+              <h3 class="services__header">Inovative Ideas</h3>
+              <p class="services__description">Quisque luctus, quam eget molestie commodo, lacus purus cursus purus, nec rutrum tellus dolor id lorem.</p>
+            </div>
+          </div>
+          <div class="services__item">
+            <img src="https://ucarecdn.com/6f268736-0371-40ce-85f5-ac4c0909714d/servicesitem3.svg" alt="" class="services__icon">
+            <div class="services__text">
+              <h3 class="services__header">Love Is The Answer</h3>
+              <p class="services__description">Nulla sed nunc et tortor luctus faucibus. Morbi at aliquet turpis, et consequat felis. Quisque condimentum.</p>
+            </div>
+          </div>
+          <div class="services__item">
+            <img src="https://ucarecdn.com/a1513b7d-1473-49c8-b001-7458a8b9038d/servicesitem4.svg" alt="" class="services__icon">
+            <div class="services__text">
+              <h3 class="services__header">Responsive Layout</h3>
+              <p class="services__description">Sed porttitor placerat rhoncus. In at nunc tellus. Maecenas blandit nunc ligula. Praesent elit leo.</p>
+            </div>
+          </div>
+          <div class="services__item">
+            <img src="https://ucarecdn.com/13dcb554-fb94-44a1-bec9-78f3821b10a6/servicesitem5.svg" alt="" class="services__icon">
+            <div class="services__text">
+              <h3 class="services__header">24 / 7 Support</h3>
+              <p class="services__description">Vivamus vel quam lacinia, tincidunt dui non, vehicula nisi. Nulla a sem erat. Pellentesque egestas venenatis lorem.</p>
+            </div>
+          </div>
+          <div class="services__item">
+            <img src="https://ucarecdn.com/a69cac0c-03aa-4bbc-b997-4a1b67eb897c/servicesitem6.svg" alt="" class="services__icon">
+            <div class="services__text">
+              <h3 class="services__header">Feel Like A Star</h3>
+              <p class="services__description">Quisque hendrerit purus dapibus, ornare nibh vitae, viverra nibh. Fusce vitae aliquam tellus.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <div class="color-line"></div>
+    <div class="container">
+      <p class="container">(c) Copyright 2013 · by PSDchat.com</p>
+      <ul class="social-icons__list">
+        <li>
+          <a href="#" class="cocial-icon__item">
+            <img src="https://ucarecdn.com/e007da07-bc1a-4941-afe7-9bb663f88695/icofacebook.svg" alt="">
+          </a>
+        </li>
+        <li>
+          <a href="#" class="cocial-icon__item">
+            <img src="https://ucarecdn.com/709ef8c3-90b8-4fa6-b1d6-2ceeea12e36c/icogoogleplus.svg" alt="">
+          </a>
+        </li>
+        <li>
+          <a href="#" class="cocial-icon__item">
+            <img src="https://ucarecdn.com/7b3396b1-2fd1-4ce1-b0a5-b950ecdd47e1/icotwitter.svg" alt="">
+          </a>
+        </li>
+        <li>
+          <a href="#" class="cocial-icon__item">
+            <img src="https://ucarecdn.com/fdef0af5-3df1-43c4-b063-46a7fafce989/icolinkedin.svg" alt="">
+          </a>
+        </li>
+      </ul>
+    </div>
+  </footer>
+</body>
